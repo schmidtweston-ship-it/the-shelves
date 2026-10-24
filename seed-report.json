@@ -1,0 +1,28 @@
+{
+  "title": "The Shelves",
+  "subtitle": "Clio\u2019s house library",
+  "built": "2026-10-23",
+  "counts": {
+    "house": 16,
+    "build": 1,
+    "kin": 2,
+    "opens": 2,
+    "held": 20,
+    "made": 12
+  },
+  "total": 53,
+  "skipped": [
+    {
+      "path": "/home/box/library/happened/kin/weston-household.md",
+      "why": "skipped \u2014 living address (802); use sugar-camp + README only per brief"
+    },
+    {
+      "path": "/home/box/library/made/kids-board",
+      "why": "missing made/ folder"
+    },
+    {
+      "path": "/home/box/library/made/love-and-music",
+      "why": "missing made/ folder"
+    }
+  ]
+}
